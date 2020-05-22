@@ -1,6 +1,7 @@
 # flutter_tiktok
 
 仿写抖音的flutter app。主要实现了看视频功能
+[Flutter高仿抖音,源码开源 附教程](https://mp.weixin.qq.com/s/oxwwiWgwbkywk5ps8R9YlQ)
 
 # 实现功能
 
